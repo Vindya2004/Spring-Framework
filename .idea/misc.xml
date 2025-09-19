@@ -15,6 +15,9 @@
         <option value="$PROJECT_DIR$/08_Spring_Web_MVC/pom.xml" />
         <option value="$PROJECT_DIR$/09_REST_Controllers/pom.xml" />
         <option value="$PROJECT_DIR$/11_Back_End/pom.xml" />
+        <option value="$PROJECT_DIR$/13_Auth_Backend/pom.xml" />
+        <option value="$PROJECT_DIR$/14_BackEnd_New/pom.xml" />
+        <option value="$PROJECT_DIR$/15-Spring-Testing/pom.xml" />
       </list>
     </option>
   </component>

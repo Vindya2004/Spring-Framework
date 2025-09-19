@@ -155,8 +155,8 @@ function renderJobs(jobs, page) {
                     </button>
                 </td>
                 <td>
-                    <button class="btn btn-sm btn-warning me-1 edit-btn" data-id="${job.id}">Edit</button>
-                    <button class="btn btn-sm btn-danger delete-btn" data-id="${job.id}">Delete</button>
+                    <button class="btn btn-sm btn-primary me-1 edit-btn" data-id="${job.id}">Edit</button>
+                    <button class="btn btn-sm btn-dark delete-btn" data-id="${job.id}">Delete</button>
                 </td>
             </tr>`;
         tbody.append(row);
